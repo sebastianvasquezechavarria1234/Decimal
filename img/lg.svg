@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+    <defs>
+        <linearGradient id="jzxor138wa" x1="0%" x2="99.852%" y1="0%" y2="99.852%">
+            <stop offset="0%" stop-color="#0FA"/>
+            <stop offset="53.085%" stop-color="#4579F5"/>
+            <stop offset="99.982%" stop-color="#9C42F5"/>
+        </linearGradient>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <g>
+            <g>
+                <g>
+                    <g>
+                        <path d="M0 0H24V24H0z" transform="translate(-708 -1220) translate(165 1144) translate(375 64) translate(168 12)"/>
+                        <path fill="url(#jzxor138wa)" fill-rule="nonzero" d="M12 0c6.627 0 12 5.373 12 12s-5.373 12-12 12S0 18.627 0 12 5.373 0 12 0z" transform="translate(-708 -1220) translate(165 1144) translate(375 64) translate(168 12)"/>
+                        <path fill="#FFF" fill-rule="nonzero" d="M17.04 5.5v13.034H6.75V15.79h7.297V8.244H6.75V5.5h10.29zm-5.426 5.145v2.744H6.75v-2.744h4.864z" transform="translate(-708 -1220) translate(165 1144) translate(375 64) translate(168 12)"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
